@@ -74,6 +74,7 @@ public class ClientMain {
 				@Override
 				public void run() {
 					System.out.println("명령어를 입력하십시오.");
+					System.out.println("명령어를 입력하십시오.");
 					while (true) {
 						String cmd = f.next();
 						System.out.println();
